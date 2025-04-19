@@ -61,6 +61,7 @@ if __name__ == "__main__":
         break
 
 
+# https://github.com/savoirfairelinux/num2words
 # Currency example
 #print(num2words(123.45, to='currency', currency='USD'))
 
